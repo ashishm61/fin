@@ -1,0 +1,9 @@
+{
+  "projectId": "sphwu9",
+  "env": {
+    "devUrl": "https://stg.finoptsys.com"
+  },
+  "defaultCommandTimeout": 4000,
+  "pageLoadTimeout": 10000,
+  "chromeWebSecurity": false
+}
